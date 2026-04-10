@@ -1,1 +1,45 @@
-# websys-week2-cabangunay-csean
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Website</title>
+</head>
+<body>
+
+    <h1>Csean Karl Cabangunay</h1>
+    <p>IT Student</p>
+
+    <a href="#about">About</a>
+    <a href="#hobbies">Hobbies</a>
+    <a href="#sites">Websites</a>
+    <a href="#contact">Contact</a>
+
+    <hr>
+
+    <h2 id="about">About Me</h2>
+    <img src="DP.jpg" width="150">
+    <p>I am Csean Karl Cabangunay currently an IT student in National University Manila with a strong interest in Networking, Database Management, and building helpful tech tools.</p>
+
+    <h2 id="hobbies">Hobbies</h2>
+    <ul>
+        <li>Playing Basketball</li>
+        <li>Gaming (Valorant and CS2)</li>
+        <li>Watching series on Netflix</li>
+        <li>Socializing with friends</li>
+    </ul>
+
+    <h2 id="sites">Favorite Websites</h2>
+    <ol>
+        <li><a href="https://offset.ph/">Offset PH</a></li>
+        <li><a href="https://undrafted.ph/">Undrafted PH</a></li>
+        <li><a href="https://www.netflix.com/browse">Netflix</a></li>
+    </ol>
+
+    <h2 id="contact">Contact</h2>
+    <p>Email: cseancabangunay@gmail.com</p>
+
+    <footer>
+        <p>&copy; 2026 Csean Karl Cabangunay</p>
+    </footer>
+
+</body>
+</html>
